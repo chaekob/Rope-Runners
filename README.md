@@ -16,7 +16,7 @@ downloaded comes with a pre-configured setup that automates the compilation proc
 which means “gcc” commands aren't necessary for this process).
 
 5.Once Notepad++ is opened, click “File” then “Open” and 
-navigate to the “RopeRunners.c” source file included in the GitHub submission. Select it and click “Open”
+navigate to the “RopeRunners.c” source file included in this GitHub submission. Select it and click “Open”
 
 6.Once the source code is successfully opened in Notepad++, press “F6” or “Fn + F6” (depending on the keyboard) 
 and the execute window should pop up. 
